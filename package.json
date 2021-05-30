@@ -1,0 +1,23 @@
+{
+  "name": "Bin2Dec",
+  "version": "1.0.0",
+  "description": "App Ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viperluan/Bin2Dec.git"
+  },
+  "keywords": [],
+  "author": "viperluan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viperluan/Bin2Dec/issues"
+  },
+  "homepage": "https://github.com/viperluan/Bin2Dec#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
